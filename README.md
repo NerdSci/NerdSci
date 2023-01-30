@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NerdSci
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Node
-- 💞️ I’m looking to collaborate on Python, Flask, Django, Javascript, dotnet, Spring Boot and Angular projects
+- 💞️ I’m looking to collaborate on Python, Flask, Django, Javascript, dotnet, Spring Boot, C#, VUE, CSS3, HTML5 and Angular projects
 - 📫 How to reach me: https://twitter.com/brcdube
 
 <!---
